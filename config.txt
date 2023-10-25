@@ -1,2 +1,0 @@
-git config --global user.name "Ted Redes"
-git config --global user.email TedRedes@Gmail.com
